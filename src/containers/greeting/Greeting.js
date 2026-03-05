@@ -42,7 +42,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
+                    href="https://drive.google.com/file/d/1c8D_IJrkS8UTC_VB41tIw2ykfS8G-sIo/view"
                     download="Resume.pdf"
                     className="download-link-button"
                   >
@@ -53,14 +53,12 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            {illustration.animated ? (
-              <DisplayLottie animationData={landingPerson} />
-            ) : (
-              <img
-                alt="man sitting on table"
-                src={require("../../assets/images/manOnTable.svg")}
-              ></img>
-            )}
+            <img
+  src={require("../../assets/images/profile.png")}
+  alt="Mohit"
+  style={{ width: "400px", borderRadius: "20px" }}
+/>
+            
           </div>
         </div>
       </div>
