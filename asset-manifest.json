@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e503a497.css",
+    "main.js": "/portfolio/static/js/main.72c4bbb5.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.4c135d6f4a3929ff45ed.png",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/plantshield.png": "/portfolio/static/media/plantshield.dbaed79bba52838aaea0.png",
+    "static/media/ewarranty.png": "/portfolio/static/media/ewarranty.767aa563012147c81d65.png",
+    "static/media/disaster.png": "/portfolio/static/media/disaster.ba2822993ab5f5e9a76a.png",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/portfolio/index.html",
+    "main.e503a497.css.map": "/portfolio/static/css/main.e503a497.css.map",
+    "main.72c4bbb5.js.map": "/portfolio/static/js/main.72c4bbb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e503a497.css",
+    "static/js/main.72c4bbb5.js"
+  ]
+}
