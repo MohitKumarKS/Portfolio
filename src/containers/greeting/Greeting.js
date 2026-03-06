@@ -2,6 +2,7 @@ import React, {useContext} from "react";
 import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.scss";
+import programmer from "../../assets/images/programming.png";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {greeting} from "../../portfolio";
@@ -51,12 +52,7 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            <img
-  src={require("../../assets/images/profile.png")}
-  alt="Mohit"
-  style={{ width: "400px", borderRadius: "20px" }}
-/>
-            
+            <img src={programmer} alt="Developer Illustration" />
           </div>
         </div>
       </div>
