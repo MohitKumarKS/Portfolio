@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.27f03b36.css",
-    "main.js": "/static/js/main.1ace90b5.js",
-    "static/media/profile.png": "/static/media/profile.4c135d6f4a3929ff45ed.png",
+    "main.js": "/static/js/main.5f6555b6.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/plantshield.png": "/static/media/plantshield.dbaed79bba52838aaea0.png",
     "static/media/ewarranty.png": "/static/media/ewarranty.767aa563012147c81d65.png",
     "static/media/disaster.png": "/static/media/disaster.ba2822993ab5f5e9a76a.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/programming.png": "/static/media/programming.4e965421963eda41d19d.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "main.27f03b36.css.map": "/static/css/main.27f03b36.css.map",
-    "main.1ace90b5.js.map": "/static/js/main.1ace90b5.js.map"
+    "main.5f6555b6.js.map": "/static/js/main.5f6555b6.js.map"
   },
   "entrypoints": [
     "static/css/main.27f03b36.css",
-    "static/js/main.1ace90b5.js"
+    "static/js/main.5f6555b6.js"
   ]
 }
